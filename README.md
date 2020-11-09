@@ -1,4 +1,4 @@
-# imbalanced_data_handling
+## Imbalanced Data Handling
 In this notebook, the imbalanced data was handled by 5 different sampling skills.
 
 1. UnderSampling - Random Undersampling
